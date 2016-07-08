@@ -2,7 +2,6 @@
   -webkit-animation: animation 1000ms linear infinite both;
   animation: animation 1000ms linear infinite both;
 }
-
 @-webkit-keyframes animation {
   0% {
     -webkit-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
