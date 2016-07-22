@@ -2,6 +2,11 @@
   <meta name="author" content="KUSHA B K" />
 # My_Heart_is_beating_for_you
 css anim
+
+
+
+<a href="https://codeclimate.com/github/kusha-b-k/My_Heart_is_beating_for_you"><img src="https://codeclimate.com/github/kusha-b-k/My_Heart_is_beating_for_you/badges/gpa.svg" /></a>
+
 <a href="https://codeclimate.com/github/kusha-b-k/My_Heart_is_beating_for_you/coverage"><img src="https://codeclimate.com/github/kusha-b-k/My_Heart_is_beating_for_you/badges/coverage.svg" /></a>
 
 <a href="https://codeclimate.com/github/kusha-b-k/My_Heart_is_beating_for_you"><img src="https://codeclimate.com/github/kusha-b-k/My_Heart_is_beating_for_you/badges/issue_count.svg" /></a>
