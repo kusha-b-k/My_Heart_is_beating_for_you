@@ -1,6 +1,6 @@
 #heart {
   -webkit-animation: animation 1000ms linear infinite both;
-  animation: animation 1000ms linear infinite both;
+  -moz-animation: animation 1000ms linear infinite both;
 }
 @-webkit-keyframes animation {
   0% {
